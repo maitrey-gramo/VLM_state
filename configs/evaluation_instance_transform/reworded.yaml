@@ -1,2 +1,0 @@
-# @package model.vima_instance_transform
-_target_: cogelot.data.transforms.RewordPromptTransform
